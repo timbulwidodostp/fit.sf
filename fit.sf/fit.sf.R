@@ -3,7 +3,6 @@
 # IG : @olahdatasemarang_
 # Non-parametric stochastic frontier Use fit.sf (snfa) With (In) R Software
 install.packages("snfa")
-
 library("snfa")
 # Estimation Non-parametric stochastic frontier Use fit.sf (snfa) With (In) R Software
 fit.sf = read.csv("https://raw.githubusercontent.com/timbulwidodostp/fit.sf/main/fit.sf/fit.sf.csv",sep = ";")
