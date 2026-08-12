@@ -1,6 +1,8 @@
 # fit.sf
 Non-parametric stochastic frontier Use fit.sf (snfa) With (In) R Software
 
+https://www.youtube.com/watch?v=-WiohJhfYOQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
